@@ -1,0 +1,8 @@
+.homePage {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+@media screen and (max-width: 960px) {
+}

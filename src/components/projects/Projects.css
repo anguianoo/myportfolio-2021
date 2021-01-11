@@ -1,0 +1,14 @@
+.projects {
+  display: flex;
+  justify-content: center;
+}
+.column {
+  display: inline-block;
+  margin: 0.5rem;
+  background-color: #6d76f7;
+  width: 30%;
+}
+img {
+  width: 500px;
+  height: 300px;
+}
